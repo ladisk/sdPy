@@ -31,5 +31,42 @@ To run the Jupyter Notebook templates, provided in this repository, you will nee
 
     With Anaconda you will also get most of the other Python packages we will be using during this course.
 
-2. AAnother tool you might find useful when accessing the course material is the [Git](https://git-scm.com/) version control system.
+    Once Anaconda is installed, you can open Jupyter Notebook by running the following command in the command prompt / terminal window in your local directory containing the `.ipynb` files:
+
+    ```cmd
+    $ jupyter notebook
+    ```
+
+    ![Jupyter notebook GIF](./figures/jupyter_notebook_gif.gif)
+
+
+
+2. Another tool you might find useful when accessing the course material is the [Git](https://git-scm.com/) version control system.
 To start using Git, you should [download](https://git-scm.com/downloads) and install the Git client and [set it up with you user information](https://help.github.com/en/articles/setting-your-username-in-git). You are now ready to [clone](#clone) this repository to your local machine!
+
+
+# <a name="getting-started"></a>Getting started with Python
+
+After you've installed a distribution of Python it might be useful to get familiar with the Python programming language. 
+
+There are countless Python tutorials available online, but the [official Python tutorial](https://docs.python.org/3/tutorial/index.html) is a great place to start.
+
+[Scipy lecture notes](http://scipy-lectures.org/index.html) are another great resource for Python aspiring Python users, focused more on the scientific community.
+Sections [1.1](http://scipy-lectures.org/intro/intro.html) and [1.2](http://scipy-lectures.org/intro/language/python_language.html) of Scipy lecture notes will provide more than enough info to get you started.
+
+You can also find many more great resources in the [official Python beginners guide](https://wiki.python.org/moin/BeginnersGuide).
+
+## Python for Matlab users
+
+Many researchers and engineers learning Python come from a background of Matlab or a similar commercial software package. A lot of effort has gone into making this transition as simple as possible.
+
+The [Scipy](https://www.scipy.org/) project includes all the tools required to make Python a powerful alternative to most comercially available numerical packages. If you are an experienced Matlab user, the [NumPy for Matlab users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html) page contains important information to quickly get you started.
+
+
+# <a name="online-course"></a>Short course on Python for structural dynamics
+
+Once you're familiar with the basics of Python programming, you can follow our course material:
+
+1. [Open-source Python tools for structural dynamics](Part 1 - Open-source Python tools for structural dynamics.ipynb)
+
+2. [High-speed based EMA powered by open-source Python tools](Part 2 - High-speed based EMA powered by open-source Python tools.ipynb)
