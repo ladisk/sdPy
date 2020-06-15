@@ -65,8 +65,8 @@ The [Scipy](https://www.scipy.org/) project includes all the tools required to m
 
 # <a name="online-course"></a>Short course on Python for structural dynamics
 
-Once you're familiar with the basics of Python programming, you can follow our course material:
+Once you're familiar with the basics of Python programming, you can follow our course material using Juypter Notebook:
 
-1. [Open-source Python tools for structural dynamics](Part 1 - Open-source Python tools for structural dynamics.ipynb)
+1. [Open-source Python tools for structural dynamics](Part%201%20-%20Open-source%20Python%20tools%20for%20structural%20dynamics.ipynb)
 
-2. [High-speed based EMA powered by open-source Python tools](Part 2 - High-speed based EMA powered by open-source Python tools.ipynb)
+2. [High-speed based EMA powered by open-source Python tools](Part%202%20-%20High-speed%20based%20EMA%20powered%20by%20open-source%20Python%20tools.ipynb)
