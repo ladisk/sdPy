@@ -1,8 +1,10 @@
 numpy
 matplotlib
+scipy
 jupyter
 notebook
 lvm_read
 pyFRF>=0.40
 pyidi>=0.21
-pyEMA>=0.22
+pyEMA>=0.23
+FLife>=0.9
