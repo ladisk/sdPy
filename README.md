@@ -23,6 +23,8 @@ You can download the whole repository as a .zip archive by clicking the "Clone o
 $ git clone https://github.com/ladisk/sdPy.git
 ```
 
+in a comand prompt / terminal window in your local directory where you want the course material to be saved.
+
 # <a name="install"></a>Installation
 
 To run the Jupyter Notebook templates, provided in this repository, you will need to install the Python programming language, as well as its `jupyter` and `notebook` packages. 
@@ -47,12 +49,12 @@ To start using Git, you should [download](https://git-scm.com/downloads) and ins
 
 # <a name="getting-started"></a>Getting started with Python
 
-After you've installed a distribution of Python it might be useful to get familiar with the Python programming language. 
+After you've installed a distribution of Python it might be useful to get familiar with the Python programming language.
 
-There are countless Python tutorials available online, but the [official Python tutorial](https://docs.python.org/3/tutorial/index.html) is a great place to start.
-
-[Scipy lecture notes](http://scipy-lectures.org/index.html) are another great resource for Python aspiring Python users, focused more on the scientific community.
+[Scipy lecture notes](http://scipy-lectures.org/index.html) are a great resource for aspiring Python users, focused more on the scientific community.
 Sections [1.1](http://scipy-lectures.org/intro/intro.html) and [1.2](http://scipy-lectures.org/intro/language/python_language.html) of Scipy lecture notes will provide more than enough info to get you started.
+
+If you want to learn even more about Python, you will find countless tutorials available online, but the [official Python tutorial](https://docs.python.org/3/tutorial/index.html) is a good place to start.
 
 You can also find many more great resources in the [official Python beginners guide](https://wiki.python.org/moin/BeginnersGuide).
 
