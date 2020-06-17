@@ -69,6 +69,6 @@ The [Scipy](https://www.scipy.org/) project includes all the tools required to m
 
 Once you're familiar with the basics of Python programming, you can follow our course material using Juypter Notebook:
 
-1. [Open-source Python tools for structural dynamics](Part%201%20-%20Open-source%20Python%20tools%20for%20structural%20dynamics.ipynb)
+1. [Open-source Python tools for structural dynamics](Part%201%20-%20Open-source%20Python%20tools%20for%20structural%20dynamics.ipynb) (to be finalized by the 29th of June 2020)
 
-2. [High-speed based EMA powered by open-source Python tools](Part%202%20-%20High-speed%20based%20EMA%20powered%20by%20open-source%20Python%20tools.ipynb)
+2. [High-speed based EMA powered by open-source Python tools](Part%202%20-%20High-speed%20based%20EMA%20powered%20by%20open-source%20Python%20tools.ipynb) (to be finalized by the 29th of June 2020)
