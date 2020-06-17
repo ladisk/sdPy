@@ -72,3 +72,5 @@ Once you're familiar with the basics of Python programming, you can follow our c
 1. [Open-source Python tools for structural dynamics](Part%201%20-%20Open-source%20Python%20tools%20for%20structural%20dynamics.ipynb) (to be finalized by the 29th of June 2020)
 
 2. [High-speed based EMA powered by open-source Python tools](Part%202%20-%20High-speed%20based%20EMA%20powered%20by%20open-source%20Python%20tools.ipynb) (to be finalized by the 29th of June 2020)
+
+**Note:** the [data](./data/) and [figures](./figures/) directories contain the data and figures, used throughout this course. These directories should be downloaded and located in the same folder than the course templates on your local machine. If you used Git to clone this repository, this was done automatically.
