@@ -8,3 +8,4 @@ pyFRF>=0.40
 pyidi>=0.21
 pyEMA>=0.23
 FLife>=0.9
+pyMRAW>=0.30
