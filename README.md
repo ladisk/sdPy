@@ -1,7 +1,7 @@
 # sdPy
 Structural Dynamics with Python
 
-This repository contains the course material for the "High-speed Image Based Experimental Modal Analysis &amp; Open Source Tools" online course.
+This repository contains the course material for the ["High-speed Image Based Experimental Modal Analysis &amp; Open Source Tools"](http://www.ladisk.si/imageEMATutorial.php) online course.
 
 
 # How to follow the course
@@ -66,6 +66,8 @@ The [Scipy](https://www.scipy.org/) project includes all the tools required to m
 
 
 # <a name="online-course"></a>Short course on Python for structural dynamics
+
+Here you can find the interactive templates for our [free online course on High-speed Image Based EMA and Open Source Tools](http://www.ladisk.si/imageEMATutorial.php).
 
 Once you're familiar with the basics of Python programming, you can follow our course material using Juypter Notebook:
 
