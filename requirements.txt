@@ -9,3 +9,5 @@ pyidi>=0.21
 pyEMA>=0.23
 FLife>=0.9
 pyMRAW>=0.30
+pyuff
+uff_widget
